@@ -39,5 +39,15 @@ KeyError: '__start__'
 Process finished with exit code 1
 
 
+*******************************************
+smith.langchain.com/hub/ içinde bunu aratıyoruz  hwchase17/react 
+langchainin kurucusu.
+
+*****
+bir sonrakilerde  tavily den yeni api KEY al da öyle dene 
+********
+
+
+
 
 
